@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HabrAz
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
@@ -40,5 +39,3 @@ In this project I use Angular 6 for project frontend and ExpressJS on Typescript
     <li><code>cd my-app</code></li>
     <li><code>ng serve --open</code></li>
 </ol>
-
->>>>>>> 8c0be6fd54db062607d4b3ef7349f0398a6273bc
